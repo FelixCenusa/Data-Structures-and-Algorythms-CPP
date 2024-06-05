@@ -3,6 +3,8 @@
 
 - Most projects have several test programs as .cpp files, only enable one .cpp file at the time to test different parts of the program if there are multiple.
 ## The Brief-Algo-Overview file has JUST the algorithms if you dont wish to run entire solutions for each project to see them.
+
+
 - Contains AllAlgosAAA which has all the algorithms I was learning at the time. Includes:
     - insertionSort
     - selectionSort
