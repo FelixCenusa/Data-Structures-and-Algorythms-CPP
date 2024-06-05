@@ -1,0 +1,4 @@
+﻿  TestsB2Heap.cpp
+C:\Users\MAC-KILLER-PRO\source\repos\OOP_lab1\B2 Laboration\B2 Laboration\TestsB2Heap.cpp(108,36): warning C4101: 'e': unreferenced local variable
+C:\Users\MAC-KILLER-PRO\source\repos\OOP_lab1\B2 Laboration\B2 Laboration\TestsB2Heap.cpp(117,36): warning C4101: 'e': unreferenced local variable
+  B2 Laboration.vcxproj -> C:\Users\MAC-KILLER-PRO\source\repos\OOP_lab1\B2 Laboration\x64\Debug\B2 Laboration.exe

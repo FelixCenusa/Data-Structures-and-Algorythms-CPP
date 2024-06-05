@@ -25,3 +25,7 @@
 
 - Contains labs i did to show my knowledge that had to be completed in 4-6 hours in the exam room with no internet access depending on the lab.
 labs are under hte folders named "Inlämningsuppgift-X"
+
+- Contains other projects
+## Once again: Only include one .cpp file at the time if there are multiple test files as shown below in the screenshot
+![alt text](image-1.png)
